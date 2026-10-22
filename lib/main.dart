@@ -70,7 +70,7 @@ class GaleriFotoPage extends StatelessWidget {
             padding: EdgeInsets.symmetric(horizontal: 16.0, vertical: 4.0),
             child: Row(
               children: [
-                Icon(Icons.calendar_month, color: Colors.blue, size: 18),
+                Icon(Icons.calendar_month, color: Colors.white, size: 18),
                 SizedBox(width: 8),
                 Text(
                   'Publikasi: 13 Agustus 2013',
